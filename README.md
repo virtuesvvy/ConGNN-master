@@ -2,6 +2,7 @@
 
 ## Requirements
 tensorflow-gpu        1.12.0
+
 tensorboard           1.12.2
 h5py                  3.1.0
 importlib-metadata    4.6.1
